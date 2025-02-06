@@ -25,5 +25,12 @@ Please feel free to connect.
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img width="20" height="20" src="https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></code>
+<code><img width="20" height="20" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/></code>
+<code><img width="20" height="20" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/></code>
+<code><img width="20" height="20" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></code>
+<code><img width="20" height="20" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/></code>
+
+
 
 
